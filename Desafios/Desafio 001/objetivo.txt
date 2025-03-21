@@ -1,0 +1,2 @@
+Objetivo:
+Programa deve pedir input de número e apresentar antecessor e sucessor do mesmo.
